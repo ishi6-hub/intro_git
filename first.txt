@@ -9,6 +9,8 @@ git commit -v
 git log
 git status
 
+
+
 #これは1回だけ？？
 git remote add origin https://github.com/ishi6-hub/intro_git.git
 
